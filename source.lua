@@ -1,7 +1,8 @@
 --[[
 
-	Rayfield Interface Suite
+	Rayfield Interface Suitr
 	by Sirius
+        Small edited by Aftr
 
 	shlex | Designing + Programming
 	iRay  | Programming
