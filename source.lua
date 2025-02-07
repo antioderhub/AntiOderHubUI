@@ -1,6 +1,6 @@
 --[[
 
-	Rayfield Interface Suitr
+	Rayfield Interface Suite
 	by Sirius
         Small edited by Aftr
 
@@ -1481,7 +1481,7 @@ function RayfieldLibrary:CreateWindow(Settings)
 
 	Main.Size = UDim2.new(0, 420, 0, 100)
 	Main.Visible = true
-	Main.BackgroundTransparency = 1
+	Main.BackgroundTransparency = 0.3
 	if Main:FindFirstChild('Notice') then Main.Notice.Visible = false end
 	Main.Shadow.Image.ImageTransparency = 1
 
